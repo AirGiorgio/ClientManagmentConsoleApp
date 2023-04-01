@@ -1,0 +1,5 @@
+1,Katarzyna,Nowak,referent,3000
+2,Grzegorz,Kubiak,inspektor,4000
+3,Adam,Michalski,kierownik,5000
+4,Karolina,Zielińska,specjalista,4000
+5,Bartosz,Wójcik,konserwator,3000
