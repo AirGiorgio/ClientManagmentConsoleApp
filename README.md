@@ -1,4 +1,3 @@
-Wyciągnąłem metodę Edit do BaseService dzięki castowaniu,
-Stworzyłem klasy manager które komunikują się z użytkownikiem i korzystają z serwisów,
-Poprawiłem nazewnictwo,
-Przeprowadziłem testy jednostkowe serwisów.
+Aplikacja konsolowa do zarządzania klientami i przedsiębiorstwa. Podstawowe operacje CRUD. 
+* Nauka testów jednostkowych za pomocą paczki Moq i Fluent Assertions
+* Nauka zapisywania do plików różnego formatu (txt, JSON, XML)  
